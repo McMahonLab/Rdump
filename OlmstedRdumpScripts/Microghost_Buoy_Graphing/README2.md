@@ -1,0 +1,1 @@
+This folder actually contains more than what README.md suggests. That's just the readme from my folder to explain that the '.sh' file can be used to convert the R scripts from either "banshee" or "specter" microghost buoys to use a different date range and then which would be output into a folder called "AdaptedRscripts"
